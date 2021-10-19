@@ -16,6 +16,8 @@
 
 > Murmur Hash - 이미 코드 있음 -> 한번 보기
 
+- 어차피 봐도 이해안감
+
 - https://sites.google.com/site/murmurhash/ - C++
 
 - https://commons.apache.org/proper/commons-codec/apidocs/org/apache/commons/codec/digest/MurmurHash3.html - Java
